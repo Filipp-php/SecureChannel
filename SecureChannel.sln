@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureChannel", "SecureChannel.csproj", "{6F626313-6201-4E6E-90AA-8F8187692926}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F626313-6201-4E6E-90AA-8F8187692926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F626313-6201-4E6E-90AA-8F8187692926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F626313-6201-4E6E-90AA-8F8187692926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F626313-6201-4E6E-90AA-8F8187692926}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0498643D-233B-4DF8-9FA5-CC0DF2C81370}
+	EndGlobalSection
+EndGlobal
